@@ -1,0 +1,12 @@
+Provider Name,NPI,Tin No,Measure Id,Measure Name,Reporting Start Date,Reporting End Date,IPP,Denominator,Exclusion,Numerator,Exception,Perf.Not.Met,Perf.Rate (%),Decile
+"Azita Takeshian",1518927532,631096291,CMS122,"Diabetes: Hemoglobin A1c Poor Control",2017-10-02,2017-12-31,134.0,134.0,0.0,134.0,0.0,0.0,100.0,NA
+"Azita Takeshian",1518927532,631096291,CMS134,"Diabetes: Medical Attention FOR Nephropathy",2017-10-02,2017-12-31,134.0,134.0,0.0,134.0,0.0,0.0,100.0,10.0
+"Azita Takeshian",1518927532,631096291,CMS135,"Heart Failure (HF): Angiotensin-Converting Enzyme (ACE) Inhibitor or Angiotensin Receptor Blocker (ARB) Therapy for Left Ventricular Systolic Dysfunction (LVSD)",2017-10-02,2017-12-31,3.0,0.0,0.0,0.0,0.0,0.0,0.0,NA
+"Azita Takeshian",1518927532,631096291,CMS138,"Preventive Care and Screening: Tobacco Use: Screening and Cessation Intervention",2017-10-02,2017-12-31,81.0,81.0,0.0,15.0,0.0,66.0,18.52,3.0
+"Azita Takeshian",1518927532,631096291,CMS144,"Heart Failure (HF): Beta-Blocker Therapy for Left Ventricular Systolic Dysfunction (LVSD)",2017-10-02,2017-12-31,3.0,0.0,0.0,0.0,0.0,0.0,0.0,NA
+"Azita Takeshian",1518927532,631096291,CMS164,"Ischemic Vascular Disease (IVD): Use of Aspirin or Another Antiplatelet\n",2017-10-02,2017-12-31,107.0,107.0,11.0,87.0,0.0,20.0,81.31,7.0
+"Azita Takeshian",1518927532,631096291,CMS165,"Controlling High Blood Pressure\n",2017-10-02,2017-12-31,347.0,347.0,15.0,173.0,0.0,159.0,52.11,3.0
+"Azita Takeshian",1518927532,631096291,CMS22,"Preventive Care and Screening: Screening for High Blood Pressure and Follow-Up Documented\n",2017-10-02,2017-12-31,393.0,393.0,80.0,34.0,0.0,279.0,10.86,3.0
+"Azita Takeshian",1518927532,631096291,CMS65,"Hypertension: Improvement in Blood Pressure\n",2017-10-02,2017-12-31,106.0,106.0,3.0,0.0,0.0,106.0,0.0,NA
+"Azita Takeshian",1518927532,631096291,CMS68,"Documentation of Current Medications in the Medical Record\n",2017-10-02,2017-12-31,426.0,426.0,0.0,426.0,0.0,0.0,100.0,10.0
+"Azita Takeshian",1518927532,631096291,CMS69,"Preventive Care and Screening: Body Mass Index (BMI) Screening and Follow-Up Plan\n",2017-10-02,2017-12-31,394.0,394.0,0.0,266.0,0.0,128.0,67.51,9.0
